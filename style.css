@@ -1,0 +1,203 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+.container{
+	width:1180px;
+	margin:0 auto;
+	
+}
+.row{
+	display:flex;
+	flex-wrap:wrap;
+}
+.col-lg-1{
+	width:8.33%;
+	padding:0 15px;
+}
+.col-lg-2{
+	width:16.66%;
+	padding:0 15px;
+}
+.col-lg-3{
+	width:25%;
+	padding:0 15px;
+}
+.col-lg-4{
+	width:33.33%;
+	padding:0 15px;
+}
+.col-lg-5{
+	width:41.66%;
+	padding:0 15px;
+}
+.col-lg-6{
+	width:50%;
+	padding:0 15px;
+}
+.col-lg-7{
+	width:58.33%;
+	padding:0 15px;
+}
+.col-lg-8{
+	width:66.66%;
+	padding:0 15px;
+}
+.col-lg-9{
+	width:75%;
+	padding:0 15px;
+}
+.col-lg-10{
+	width:83.33%;
+	padding:0 15px;
+}
+.col-lg-11{
+	width:91.66%;
+	padding:0 15px;
+}
+.col-lg-12{
+	width:100%;
+	padding:0 15px;
+}
+.align-items-center{
+	align-items:center !important;
+}
+.align-items-flex-start{
+	align-items:flex-start !important;
+}
+.align-items-flex-end{
+	align-items:flex-end !important;
+}
+.align-items-baseline{
+	align-items:baseline !important;
+}
+.align-items-stretch{
+	align-items:stretch !important;
+}
+
+
+
+.header{
+	background-color:black;
+	height:70px;
+	
+}
+.logo{
+	background-color:red;
+	height:40px;
+    margin-top:10px;
+}
+.menu-bar{
+	background-color:red;
+	height:40px;
+	margin-top:10px;
+}
+.banner{
+	background-color:white;
+	height:300px;
+}
+.banner-content{
+	background-color:red;
+	height:250px;
+	margin-top:40px;
+}
+.info{
+	background-color:black;
+	height:360px;
+}
+.content{
+	background-color:orange;
+	height:250px;
+	margin-top:20px;
+	width:500px;
+}
+.content-image{
+	background-color:red;
+	height:270px;
+	margin-top:20px;
+}
+.about{
+	background-color:white;
+	height:370px;
+	
+}
+.about-info{
+	padding-left:500px;
+	margin-top:20px;
+}
+.about-info1{
+	background-color:red;
+	height:40px;
+	margin-top:20px;
+	margin-left:-49px;
+	margin-bottom:10px;
+	align-items:center;
+}
+.about-info2{
+	background-color:red;
+	height:40px;
+	margin-bottom:10px;
+}
+.about-content{
+	background-color:red;
+	height:250px;
+    
+}
+.service{
+	background-color:black;
+	height:140px;
+}
+.service-info{
+	background-color:red;
+	height:100px;
+	margin-top:10px;
+}
+.feature-image{
+	background-color:red;
+	height:150px;
+}
+.feature-content{
+	background-color:red;
+	height:30px;
+	margin-bottom:20px;
+}
+.portfolio{
+	background-color:black;
+	height:300px;
+}
+.portfolio-content{
+	background-color:red;
+	height:220px;
+	margin-top:20px;
+}
+.portfolio-image{
+	background-color:red;
+	height:220px;
+	margin-top:20px;
+}
+.team-content{
+	background-color:red;
+	height:50px;
+	margin-bottom:20px;
+}
+.team-image{
+	background-color:red;
+	height:190px;
+}
+.team{
+	margin-top:20px;
+}
+.about1{
+	background-color:black;
+	height:670px;
+	margin-top:20px;
+	
+	
+}
+.about-content1{
+	background-color:red;
+	height:250px;
+	margin-bottom:20px;
+    
+}
